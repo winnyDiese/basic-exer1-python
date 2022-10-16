@@ -14,3 +14,5 @@ elif family[1] == "Synt":
     print("Hello Synt, how are you ?")
 else :
     print("Give me your name, please")
+
+
